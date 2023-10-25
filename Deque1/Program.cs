@@ -22,6 +22,8 @@ namespace Deque1
             List.Print();
             List.RemoveFirst();
             Console.ReadLine();
+            Console.ReadLine();
+
         }
     }
 }
