@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Deque
+namespace Deque1
 {
     class DoublyList<T>
     {
@@ -89,7 +89,7 @@ namespace Deque
             {
                 if (search.Data.Equals(data))
                 {
-                    return number;
+                    return number+1;
                 }
                 number++;
                 search = search.Next;

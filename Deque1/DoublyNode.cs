@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Deque
+namespace Deque1
 {
     class DoublyNode<T>
     {
